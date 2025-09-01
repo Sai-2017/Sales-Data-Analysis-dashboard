@@ -1,7 +1,7 @@
 # Electrohub Sales Data Analysis (Interactive Dashboard Creation Using PowerBI).
 
 # Dashboard Link:
-https://app.powerbi.com/links/0ShthoC6am?ctid=c6c3729c-25e9-49d9-9f4b-cc36d44a5b2f&pbi_source=linkShare
+(https://app.powerbi.com/view?r=eyJrIjoiYjUyZGQzNzUtMWFhYi00YmQwLTk2YTQtMDRjM2ViZjU1NjY4IiwidCI6ImM2YzM3MjljLTI1ZTktNDlkOS05ZjRiLWNjMzZkNDRhNWIyZiJ9)
 
 # Project Objective:
 The Electrohub store wants to create a sales report to understand the sales and profit for different products across different regions.
