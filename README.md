@@ -6,9 +6,6 @@
 # Project Objective:
 The Electrohub store wants to create a sales report to understand the sales and profit for different products across different regions.
 
-# Dataset Used: 
-https://in.docworkspace.com/d/sIDzGkriyAsDq1cUG?sa=601.1037
-
 # Questions (Key Performance Indicators):
 1) To Find the Top/Bottom 5 Products by Sales/ Profit/ Quantity Sold.
 2) How do sales trends vary over time (daily, monthly, quarterly, yearly).
