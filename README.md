@@ -24,7 +24,7 @@ https://in.docworkspace.com/d/sIDzGkriyAsDq1cUG?sa=601.1037
 - Make sure the data is clean & transformed with respect to data type, data format & values used.
 - Created date tables & measures & active and inactive relationships to fulfill the requirements.
 - Dashboard Screenshots:
-  <img width="1579" height="755" alt="Screenshot 2025-09-01 163843" src="https://github.com/user-attachments/assets/97038f57-68dc-4c2e-aab0-3d0cd79ae5fc" />
+  <img width="1583" height="754" alt="Screenshot 2025-09-04 141005" src="https://github.com/user-attachments/assets/67bd74f4-04ad-4a31-9b11-2519283fd4be" />
   <img width="1584" height="756" alt="Screenshot 2025-09-01 163906" src="https://github.com/user-attachments/assets/d673a6f4-0d31-4ce8-8139-5e475ab4a31f" />
   <img width="1582" height="766" alt="Screenshot 2025-09-01 163927" src="https://github.com/user-attachments/assets/43ca6ce8-4e3c-4b89-afb3-91c870e48f3d" />
   <img width="1578" height="758" alt="Screenshot 2025-09-01 163945" src="https://github.com/user-attachments/assets/9474a96f-f5e9-4104-99ac-838750ff31a0" />
